@@ -1,0 +1,18 @@
+{
+  "name": "lobbyandgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Vitoz",
+  "license": "ISC",
+  "dependencies": {
+    "cookie": "^0.3.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
